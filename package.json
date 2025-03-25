@@ -41,6 +41,7 @@
     "@langchain/langgraph": "^0.2.41",
     "@langchain/langgraph-sdk": "^0.0.40",
     "@langchain/ollama": "^0.1.4",
+    "@langchain/exa": "^0.0.1",
     "@langchain/openai": "^0.4.2",
     "@mendable/firecrawl-js": "1.10.1",
     "@nextjournal/lang-clojure": "^1.0.0",
@@ -113,7 +114,8 @@
     "tailwindcss-animate": "^1.0.7",
     "uuid": "^10.0.0",
     "zod": "^3.23.8",
-    "zustand": "5.0.3"
+    "zustand": "5.0.3",
+    "exa-js": "^1.0.0",
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
