@@ -6,6 +6,9 @@ name: Node.js CI
 on:
   schedule:
     - cron: '0 1 * * *'   # 매일 오전 10시 (한국 시간 기준)
+    
+  workflow_dispatch:
+    
 jobs:
   build:
 
